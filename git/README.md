@@ -17,3 +17,5 @@ The learning objectives to be met by the end of this project are:
 	13. How to merge branches
 	14. How to work as collaborators on a project
 	15. Which files should and which files should not appear in your repo
+
+ There are tasks for one to do within the project which aim to help one achieve the aforementioned learning objectives.
